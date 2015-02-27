@@ -1,0 +1,15 @@
+# Output directory for ANT and Gradle
+build/
+
+# Intellij project files
+*.iml
+.idea/
+
+#Gradle
+.gradle/
+
+# OS X junk
+.DS_Store
+
+# AndroidStudio junk
+local.properties
